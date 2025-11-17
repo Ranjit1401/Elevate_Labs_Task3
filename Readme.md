@@ -1,0 +1,14 @@
+SELECT *
+
+SELECT specific columns
+
+WHERE, AND, OR
+
+LIKE
+
+BETWEEN
+
+ORDER BY ASC / DESC
+
+LIMIT
+
