@@ -1,0 +1,5 @@
+SELECT * FROM members;
+SELECT * FROM members WHERE email IS NULL;
+SELECT * FROM members WHERE name LIKE 'A%';
+SELECT * FROM members ORDER BY name DESC;
+SELECT * FROM members LIMIT 2;
